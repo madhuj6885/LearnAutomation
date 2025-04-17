@@ -3,7 +3,10 @@ package com.learn.automation;
 public class Register {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		
+		System.out.println("Iam a Register Page");
+		System.out.println("Iam a Register Page");
 
 	}
 
